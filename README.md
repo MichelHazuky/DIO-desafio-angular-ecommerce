@@ -2,7 +2,10 @@
 Usando uma API do google planilhas criada por mim mesmo, os livros são cadastrados nessa planilha
 https://docs.google.com/spreadsheets/d/1ZhswkqiHrTxJ9RBQbNj5LXvvnyj4bZ9hYKPlGMq7PG4/edit?usp=sharing
 
-E um script que desenvolvi, os retornam para o Angular.
+O script da API é este logo abaixo
+https://script.google.com/home/projects/1HZ77IO33hr2kPapHEcMx8SdF5nmmQu0CKwup2Ysef8Z5Rth1EwK-6KLa/edit
+
+E o script que desenvolvi, retorna os dados dos livros da planilha para o Angular.
 
 ## ECommerce
 
